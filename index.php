@@ -1,6 +1,6 @@
 <?php
 
-$plane[0]]['capacity'] = 215;         // Boeing 737 1 //
+$plane[0]]['capacity'] = 215;         
 $plane[0]]['speed'] = 950 Km/h;
 $plane[0]]['weight'] = 41,145kg;
 $plane[0]]['Wingspan'] = 35.8 m;
