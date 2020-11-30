@@ -32,41 +32,41 @@ $plane[5]['wingspan'] = "14,424 m";
 
 
 
-$people[1]['firstname'] = "John";
-$people[1]['lastname'] = "Slechta";
-$people[1]['age'] = "36";
-$people[1]['hoursflown'] = "1500";
-$people[1]['medicalcondition'] = "perfect";
-$people[1]['plane'] = $plane[1];
+$people[0]['firstname'] = "John";
+$people[0]['lastname'] = "Slechta";
+$people[0]['age'] = "36";
+$people[0]['hoursflown'] = "1500";
+$people[0]['medicalcondition'] = "perfect";
+$people[0]['plane'] = $plane[1];
 
-$people[2]['firstname'] = "Brian";
-$people[2]['lastname'] = "Fletcher";
-$people[2]['age'] = "48";
-$people[2]['hoursflown'] = "3500";
-$people[2]['medicalcondition'] = "glasess";
-$people[2]['plane'] = $plane[2];
+$people[1]['firstname'] = "Brian";
+$people[1]['lastname'] = "Fletcher";
+$people[1]['age'] = "48";
+$people[1]['hoursflown'] = "3500";
+$people[1]['medicalcondition'] = "glasess";
+$people[1]['plane'] = $plane[2];
 
 
-$people[3]['firstname'] = "Conor";
-$people[3]['lastname'] = "Mcdonald";
-$people[3]['age'] = "55";
-$people[3]['hoursflown'] = "6680";
-$people[3]['medicalcondition'] = "perfect";
-$people[3]['plane'] = $plane[3];
+$people[2]['firstname'] = "Conor";
+$people[2]['lastname'] = "Mcdonald";
+$people[2]['age'] = "55";
+$people[2]['hoursflown'] = "6680";
+$people[2]['medicalcondition'] = "perfect";
+$people[2]['plane'] = $plane[3];
 
-$people[4]['firstname'] = "Paul";
-$people[4]['lastname'] = "Donald";
-$people[4]['age'] = "28";
-$people[4]['hoursflown'] = "400";
-$people[4]['medicalcondition'] = "overweight";
-$people[4]['plane'] = $plane[4];
+$people[3]['firstname'] = "Paul";
+$people[3]['lastname'] = "Donald";
+$people[3]['age'] = "28";
+$people[3]['hoursflown'] = "400";
+$people[3]['medicalcondition'] = "overweight";
+$people[3]['plane'] = $plane[4];
 
-$people[5]['firstname'] = "Jake";
-$people[5]['lastname'] = "Mcdonald";
-$people[5]['age'] = "60";
-$people[5]['hoursflown'] = "8000";
-$people[5]['medicalcondition'] = "high_heart_presure";
-$people[5]['plane'] = $plane[5];
+$people[4]['firstname'] = "Jake";
+$people[4]['lastname'] = "Mcdonald";
+$people[4]['age'] = "60";
+$people[4]['hoursflown'] = "8000";
+$people[4]['medicalcondition'] = "high_heart_presure";
+$people[4]['plane'] = $plane[5];
 
 ?>
 <!DOCTYPE html>
