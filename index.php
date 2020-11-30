@@ -1,31 +1,31 @@
 <?php
 
-$plane[0]]['capacity'] = 215;         
+$plane[0]]['capacity'] = 215;         // Boeing 737 
 $plane[0]]['speed'] = 950 Km/h;
-$plane[0]]['weight'] = 41,145kg;
+$plane[0]]['weight'] = 41,145kg;      
 $plane[0]]['Wingspan'] = 35.8 m;
 
-$plane[1]]['capacity'] = 4;           // cessna 172 2 //
+$plane[1]]['capacity'] = 4;           // cessna 172 
 $plane[1]]['speed'] = 230 km/h;
 $plane[1]]['weight'] = 757 kg;
 $plane[1]]['Wingspan'] = 11 m;
 
-$plane[2]]['capacity'] = 2;           // Fairchild A-10 Thunderbolt II 3 //
+$plane[2]]['capacity'] = 2;           // Fairchild A-10 Thunderbolt II 
 $plane[2]]['speed'] = 706 km/h km/h;
 $plane[2]]['weight'] = 757 kg;
 $plane[2]]['Wingspan'] = 18 m m;
 
-$plane[3]]['capacity'] = 1;           // Messerschmitt Me 262 4 //
+$plane[3]]['capacity'] = 1;           // Messerschmitt Me 262 
 $plane[3]]['speed'] = 870 km/h km/h;
 $plane[3]]['weight'] = 	3.800 kg;
 $plane[3]]['Wingspan'] = 12,51 m;
 
-$plane[4]]['capacity'] = 475;         // Antonov An-225 5 //
+$plane[4]]['capacity'] = 475;         // Antonov An-225
 $plane[4]]['speed'] = 850 km/h km/h;
 $plane[4]]['weight'] = 	640 000 kg;
 $plane[4]]['Wingspan'] = 88 m;
 
-$plane[5]]['capacity'] = 19;		  // Let L-410 Turbolet 6 //
+$plane[5]]['capacity'] = 19;		  // Let L-410 Turbolet
 $plane[5]]['speed'] = 388 km/h km/h;
 $plane[5]]['weight'] = 	6400 kg;
 $plane[5]]['Wingspan'] = 14,424 m;
